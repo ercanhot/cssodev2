@@ -1,0 +1,13 @@
+p {
+  text-align: center;
+}
+
+body {
+  text-align: center;
+}
+
+tbody,
+td {
+  text-align: center;
+  size: 2px;
+}
